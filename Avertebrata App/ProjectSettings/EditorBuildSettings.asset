@@ -6,9 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: e5f6141a4f5998247b7fe56a78896435
+  - enabled: 1
     path: Assets/Scenes/Main_Menu.unity
     guid: 18f4e68f754230d4f89d5a5fb1d850d9
   - enabled: 1
     path: Assets/Scenes/Menu_Hewan.unity
     guid: 830d12a33c67c4e4aa9777a50f6d39bf
+  - enabled: 1
+    path: Assets/Scenes/utama_aves.unity
+    guid: 628c32fad35c3a64a8dc5b6dc1053310
+  - enabled: 1
+    path: Assets/Scenes/utama_amfibi.unity
+    guid: e3f8866ac75a4e643b8098f132d16f27
+  - enabled: 1
+    path: Assets/Scenes/utama_mamalia.unity
+    guid: be6c2cdd52521f04a9eed7ecfd5f128e
+  - enabled: 1
+    path: Assets/Scenes/utama_pisces.unity
+    guid: 262e32714d9c683408721aca42c4ad04
+  - enabled: 1
+    path: Assets/Scenes/utama_Reptil.unity
+    guid: b679dafb38e438f4786f245bca8e16bc
+  - enabled: 1
+    path: Assets/Scenes/cobalagi.unity
+    guid: 7fd5629fc5764194a9868b788c6ae0fb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: 09282b8408fba6e4b87874f317071a87
   m_configObjects: {}
